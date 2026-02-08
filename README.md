@@ -29,10 +29,9 @@ A highly motivated student with a solid foundation in Python and a growing inter
 
 
 ## 📂 Featured Projects
-- 🚢 Titanic Survival Analysis
-    Exploratory Data Analysis, Feature Engineering & Classification Models
-- 🌸 IRIS Dataset Classification
-    End-to-end ML pipeline with model evaluation
+- 🎀Breast Cancer Classification | End-to-End Machine Learning Project using Logistic Regression 
+- 🚢 Titanic Survival Analysis | Exploratory Data Analysis, Feature Engineering & Classification Models
+- 🌸 IRIS Dataset Classification | End-to-end ML pipeline with model evaluation
 
 👉 More projects coming soon as I continue learning and experimenting.
 
