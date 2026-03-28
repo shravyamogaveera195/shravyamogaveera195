@@ -2,8 +2,6 @@
 
 #  👋 Hi, I’m Shravya Mogaveera
 ### 🎓 AI Engineering Student | Machine Learning & Python | Building Intelligent Systems
-A highly motivated student with a solid foundation in Python and a growing interest in AI engineering. Actively learning machine learning and data analysis through projects and practice. Enthusiastic about applying theoretical knowledge to real world problems and continuously improving technical and analytical skills in a dynamic learning environment.
-
 
 ## 🚀 About Me
 - 🌱 Currently learning Machine Learning, Deep Learning, and AI fundamentals
